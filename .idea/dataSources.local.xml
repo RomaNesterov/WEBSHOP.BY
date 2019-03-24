@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="WEBSHOP.BY@localhost" uuid="a89e7eca-1d70-42ed-9685-7a3645a0a925">
+      <database-info product="MySQL" version="5.7.13-log" jdbc-version="4.0" driver-name="MySQL Connector Java" driver-version="mysql-connector-java-5.1.44 ( Revision: b3cda4f864902ffdde495b9df93937c3e20009be )">
+        <extra-name-characters>#@</extra-name-characters>
+        <identifier-quote-string>`</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="mixed" quoted-identifiers="upper" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>Roma</user-name>
+      <introspection-schemas>*:WEBSHOP.BY</introspection-schemas>
+    </data-source>
+    <data-source name="WEBSHOP.BY@localhost [2]" uuid="7dc0ac27-6200-44a8-95fe-acd831a6ffbf">
+      <database-info product="MySQL" version="5.7.13-log" jdbc-version="4.0" driver-name="MySQL Connector Java" driver-version="mysql-connector-java-5.1.44 ( Revision: b3cda4f864902ffdde495b9df93937c3e20009be )">
+        <extra-name-characters>#@</extra-name-characters>
+        <identifier-quote-string>`</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="mixed" quoted-identifiers="upper" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>Roma</user-name>
+      <introspection-schemas>*:WEBSHOP.BY</introspection-schemas>
+    </data-source>
+  </component>
+</project>
